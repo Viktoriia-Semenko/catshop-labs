@@ -70,3 +70,4 @@ jobs:
         with:
           section: cache
           path: lab-02
+          bonus: "true"
