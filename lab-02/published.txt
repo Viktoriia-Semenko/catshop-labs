@@ -1,0 +1,1 @@
+ghcr.io/viktoriia-semenko/catshop-labs/catshop@sha256:5bc5be2fcd5e30d35cb093ca175ac91e724f155bb2459480b19126af89ffc63f
